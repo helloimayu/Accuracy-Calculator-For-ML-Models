@@ -5,7 +5,6 @@
 
 
 #libraries required: numpy, scikit-learn
-#installing required pip packages in the current Jupyter kernel
 
 import sys
 get_ipython().system('{sys.executable} -m pip install numpy scikit-learn')
